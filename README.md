@@ -10,16 +10,27 @@ I am documenting my learning by practicing every chapter, solving practice sets,
 I am following the structured curriculum provided in the course:
 
 Chapter 0: Fundamentals of Programming
+
 Chapter 1: Modules, Comments & Pip
+
 Chapter 2: Variables & Datatypes
+
 Chapter 3: Strings
+
 Chapter 4: Lists & Tuples
+
 Chapter 5: Dictionary & Sets
+
 Chapter 6: Conditional Expressions
+
 Chapter 7: Loops in Python
+
 Chapter 8: Functions & Recursions
+
 Chapter 9: File I/O
+
 Chapter 10-11: Object-Oriented Programming (OOPs) & Inheritance
+
 Chapter 12-13: Advanced Python concepts
 
 🚀 Projects Included
