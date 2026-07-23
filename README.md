@@ -38,11 +38,15 @@ This repository includes the following major projects:
 
 Snake, Water, Gun Game (Chapter 8)
 The Perfect Guess (Chapter 11)
-Jarvis AI (Mega Project 1)
+Jarvis AI
+-  created according to my computer and what i wanted to do with that. using the gemini API_KEY
+
 Auto-Reply AI Chatbot (Mega Project 2)
+
 🛠️ Tools & Technologies
 Language: Python 3.x
 Editor: Visual Studio Code (VS Code)
 Environment Management: Virtual Environments (venv)
+
 🔗 Resource
 Original Course: Python Tutorial For Beginners in Hindi by CodeWithHarry.
